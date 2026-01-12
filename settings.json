@@ -1,0 +1,10 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 17,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.tree.indent": 20,
+    "explorer.compactFolders": false,
+    "editor.rename.enablePreview": false,
+    "workbench.editor.enablePreview": false
+}
